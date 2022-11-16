@@ -1,0 +1,3 @@
+class CurrentTemp < ApplicationRecord
+
+end
